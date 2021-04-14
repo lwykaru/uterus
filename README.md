@@ -1,6 +1,4 @@
 <h1>Uterus is not Metaphor</h1>
-
-<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Image as link</title>
